@@ -15,6 +15,8 @@ A list of useful references that people may need.
   - [UnrealEngine3/Development/Src/Core/Src/UnCorSc.cpp#L6191](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnCorSc.cpp#L6191)
 - CallFunction
   - [UnrealEngine3/Development/Src/Core/Src/UnCorSc.cpp#L5933](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnCorSc.cpp#L5933)
+- GCreateMalloc
+  - [UnrealEngine3/Development/Src/Launch/Src/LaunchEngineLoop.cpp#L248](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Launch/Src/LaunchEngineLoop.cpp#L248)
 - LoadFileAndDecrypt
   - [UnrealEngine3/Development/Src/Engine/Src/ScriptPlatformInterface.cpp#L31](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Engine/Src/ScriptPlatformInterface.cpp#L31)
 - appLoadFileToArray
@@ -73,6 +75,8 @@ A list of useful references that people may need.
   - [UnrealEngine3/Development/Src/Core/Inc/UnType.h#L1129](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Inc/UnType.h#L1129)
 
 ### Structs
+- FMalloc
+  - [UnrealEngine3/Development/Tools/UnrealLightmass/LightmassCore/Inc/LMMemory.h#L49](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Tools/UnrealLightmass/LightmassCore/Inc/LMMemory.h#L49)
 - FGuid
   - [UnrealEngine3/Engine/Source/Runtime/Core/Public/Misc/Guid.h#L108](https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Core/Public/Misc/Guid.h#L108)
 - FNameEntry
