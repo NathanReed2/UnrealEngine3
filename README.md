@@ -2,13 +2,19 @@
 
 A list of useful references that people may need.
 
- ### Files
+## Variables
+- GNames
+  - [UnrealEngine3/Development/Src/Core/Inc/UnName.h#L572](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Inc/UnName.h#L572)
+- GObjects
+  - [UnrealEngine3/Development/Src/Core/Inc/UnObjBas.h#L1178](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Inc/UnObjBas.h#L1178)
+
+ ## Files
 - AES Encryption & Decryption
   - [UnrealEngine3/Development/Src/Core/Src/AES.cpp](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/AES.cpp)
 - FColorList RGB Values
   - [UnrealEngine3/Runtime/Core/Private/Math/ColorList.cpp#L212](https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Core/Private/Math/ColorList.cpp#L212)
 
-### Functions
+## Functions
 - ProcessEvent
   - [UnrealEngine3/Development/Src/Core/Src/UnCorSc.cpp#L6270](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnCorSc.cpp#L6270)
 - ProcessInternal
@@ -74,7 +80,7 @@ A list of useful references that people may need.
 - UArrayProperty
   - [UnrealEngine3/Development/Src/Core/Inc/UnType.h#L1129](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Inc/UnType.h#L1129)
 
-### Structs
+## Structs
 - FMalloc
   - [UnrealEngine3/Development/Tools/UnrealLightmass/LightmassCore/Inc/LMMemory.h#L49](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Tools/UnrealLightmass/LightmassCore/Inc/LMMemory.h#L49)
 - FGuid
