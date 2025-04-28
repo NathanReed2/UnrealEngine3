@@ -26,7 +26,7 @@ A list of useful references that people may need.
 - LoadFileAndDecrypt
   - [UnrealEngine3/Development/Src/Engine/Src/ScriptPlatformInterface.cpp#L31](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Engine/Src/ScriptPlatformInterface.cpp#L31)
 - appLoadFileToArray
-  - [UnrealEngine3/Development/Src/Core/Src/UnMisc.cpp#L3222](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Engine/Src/ScriptPlatformInterface.cpp#L31)
+  - [UnrealEngine3/Development/Src/Core/Src/UnMisc.cpp#L3222](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnMisc.cpp#L3222)
 
 ## Classes
 - UObject
