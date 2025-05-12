@@ -8,8 +8,9 @@ A list of useful references that people may need.
 - GObjects
   - [UnrealEngine3/Development/Src/Core/Inc/UnObjBas.h#L1178](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Inc/UnObjBas.h#L1178)
 - GMalloc
-  - [UnrealEngine3/Development/LightmassCore/Inc/LMMemory.h#L109](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Tools/UnrealLightmass/LightmassCore/Inc/LMMemory.h#L109)
   - [UnrealEngine3/Development/Src/Core/Src/Core.cpp#L390](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/Core.cpp#L390)
+  - [UnrealEngine3/Development/LightmassCore/Inc/LMMemory.h#L109](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Tools/UnrealLightmass/LightmassCore/Inc/LMMemory.h#L109)
+  - [UnrealEngine3/Development/LightmassCore/Src/LMMemory.cpp#L14](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Tools/UnrealLightmass/LightmassCore/Src/LMMemory.cpp#L14)
 
  ## Files
 - AES Encryption & Decryption
