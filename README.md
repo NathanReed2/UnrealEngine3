@@ -23,6 +23,8 @@ A list of useful references that people may need.
   - [UnrealEngine3/Development/Src/Core/Src/UnCorSc.cpp#L6270](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnCorSc.cpp#L6270)
 - ProcessInternal
   - [UnrealEngine3/Development/Src/Core/Src/UnCorSc.cpp#L6191](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnCorSc.cpp#L6191)
+- ProcessDelegate
+  - [UnrealEngine3/Development/Src/Core/Src/UnCorSc.cpp#L6408](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnCorSc.cpp#L6408)
 - CallFunction
   - [UnrealEngine3/Development/Src/Core/Src/UnCorSc.cpp#L5933](https://github.com/CodeRedModding/UnrealEngine3/blob/main/Development/Src/Core/Src/UnCorSc.cpp#L5933)
 - GCreateMalloc
